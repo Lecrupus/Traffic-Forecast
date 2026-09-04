@@ -153,7 +153,7 @@ Index order as `test.csv`.
 | `submission_crown.csv` | `project.ipynb` | 0.1283 |
 | `submission_93plus_lgb_offset.csv` | `make_93_plus_candidate.py` | 0.1221 |
 | `submission_rescue_killer_800_200.csv` | `make_best_800_200.py` | 0.1293 |
-| `submission_kapow_killer.csv` | *(no script in repo)* | 0.1312 |
+| `submission_kapow_killer.csv` | - | 0.1312 |
 | `submission.csv` | byte-identical to `submission_93plus_lgb_offset.csv` | 0.1221 |
 
 All five are highly correlated (pairwise r ≥ 0.977), which is expected — they share the same
